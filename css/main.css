@@ -1,5 +1,7 @@
-#social-buttons button {
+#social-buttons {
 	color: white;
+  text-align: center;
+  margin: 30px;
 }
 .btn-twitter {
 	background-color: #00acee;
@@ -46,10 +48,7 @@ header {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
-#social-buttons {
-  text-align: center;
-  margin: 30px;
-}
+
 article {
   height: 300px;
   text-align: center;
