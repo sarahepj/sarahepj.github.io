@@ -1,0 +1,84 @@
+#social-buttons button {
+	color: white;
+}
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+}
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
+}
+
+header {
+      text-align: center;
+      background: url('https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/208055_10151103892349405_634039652_n.jpg?oh=be7aa9ddbba6e6d0465871c303f0b8a4&oe=56BB3C9B');
+      background-size: cover;
+    }
+.navigation {
+      color: white;
+      font-family: 'Fredericka the Great';
+      font-size: 20px;
+      padding: 15px;
+    }
+ h1 {
+      font-size: 70px;
+      font-family:'Fredericka the Great', cursive;
+      color: white;
+      background: rgba(0,70,100,0.7);
+    }
+ img {
+      margin: 50px 30px 30px 30px;
+      border: 2px blue;
+      border-style: dotted;
+      border-radius: 70px;
+
+    }
+ ul {
+      padding: 10px;
+      background: rgba(0,50,100,0.5);
+    }
+ li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+#social-buttons {
+  text-align: center;
+  margin: 30px;
+}
+article {
+  height: 300px;
+  text-align: center;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+  font-size: 30px;
+  color: white;
+}
+.Vienna {
+  background: url("../images/Vienna.jpg");
+  background-size: 800px 400px;
+  }
+.Santa-Maria {
+  background: url("../images/Paraguay.jpg");
+  background-size: 800px 400px;
+  }
+.Oxford {
+  background: url("../images/lake.jpg");
+  background-size: 800px 400px;
+  }
+.places {
+  background-color: rgba(0,50,100,0.7);
+  padding: 20px;
+  border-radius: 15px;
+  font-family:'Fredericka the Great';
+  color: white;
+}
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  background: #ccffff;
+}
